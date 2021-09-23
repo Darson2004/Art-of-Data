@@ -14,11 +14,11 @@ author: Darson Chen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "I am some person that thinks Chris Kaiser smells"
-  Chris Smells:
-    - Chris Smells: "https://beautifuljekyll.com"
+  About Me: "I am some person that thinks Sarene Choudhury is weird"
+  Sarene is Weird:
+    - Hello: "https://beautifuljekyll.com"
     - Markdown: "https://www.markdowntutorial.com/"
-  Chris Reeks: "https://deanattali.com"
+  Stuff: "https://deanattali.com"
 
 # --- Logo --- #
 
