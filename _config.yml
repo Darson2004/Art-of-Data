@@ -14,7 +14,7 @@ author: Darson Chen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "I am some person that thinks Sarene Choudhury is weird"
+  About Me: "aboutme"
   Sarene is Weird:
     - Hello: "https://beautifuljekyll.com"
     - Markdown: "https://www.markdowntutorial.com/"
